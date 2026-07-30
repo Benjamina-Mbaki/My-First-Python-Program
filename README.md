@@ -14,7 +14,7 @@ This is my first Python program. It introduces me and demonstrates the basics of
 🛠️ Technologies Used
 
 - Python 3
-- 
+  
 👩‍💻 Author
 
 Benjamina Mbaki
